@@ -1,37 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 
-###
-
 <p align="center">A computer science student at Bahria University, deeply passionate about coding and technology.</p>
-
-###
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
-###
-
-<p align="left">- 🔭 I’m student at Bahria University<br>- 📚 I'm currently in final year of Bachelors in Computer Sciences.</p>
-
-###
+<p align="left">- 🔭 I’m a student at Bahria University<br>- 📚 I'm currently in the final year of my Bachelor's in Computer Science.</p>
 
 <h3 align="left">Connect with me</h3>
 
-###
-
 <div align="left">
-  <a href="www.linkedin.com/in/muhammad-hamza55" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-hamza55" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="syedhamzatahir.ht@gmail.com" target="_blank">
+  <a href="mailto:syedhamzatahir.ht@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -53,20 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hamza-tahir55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza-tahir55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
