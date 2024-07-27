@@ -2,11 +2,11 @@
 
 <p align="center">A computer science student at Bahria University, deeply passionate about coding and technology.</p>
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
+<h2 align="left">👨🏻‍💻  About Me</h2>
 
 <p align="left">- 🔭 I’m a student at Bahria University<br>- 📚 I'm currently in the final year of my Bachelor's in Computer Science.</p>
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammad-hamza55" target="_blank">
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
