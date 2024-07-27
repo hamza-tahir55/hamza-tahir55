@@ -47,9 +47,9 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.f99d00d5ad7a8ba83fba26029db97c9a?rik=3xw2UMfrGqGoUA&pid=ImgRaw&r=0" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/184143/java.svg" height="40" alt="Java logo"  />
+  <img src="https://th.bing.com/th/id/R.4cefe8541aa7de44af412379040e1ab3?rik=PbAdFPH%2fmI93Tw&pid=ImgRaw&r=0" height="40" alt="Anaconda logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452045/js.svg" height="40" alt="JavaScript logo"  />
+  <img src="https://th.bing.com/th/id/OIP.74fMc7yMlp6VN4JaF2AvHQHaHa?w=800&h=800&rs=1&pid=ImgDetMain" height="40" alt="Vs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/480px-HTML5_logo_and_wordmark.svg.png" height="40" alt="JavaScript logo"  />
   <img width="12" />
