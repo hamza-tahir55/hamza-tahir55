@@ -42,6 +42,7 @@
 
 <h2 align="left">🛠 Tools </h2>
 
+
 <div align="left">
   <img src="https://th.bing.com/th/id/OIP.74fMc7yMlp6VN4JaF2AvHQHaHa?w=800&h=800&rs=1&pid=ImgDetMain" height="50" alt="Vs logo"  />
   <img width="20" />
@@ -51,10 +52,9 @@
   <img width="20" />
   <img src="https://gitlab.com/uploads/-/system/project/avatar/30382958/jupyter.png" height="50" alt="Jupyter logo"  />
   <img width="20" />
-
-
-
 </div>
+
+
 
 <h3 align="left">🔥 My Stats :</h3>
 
