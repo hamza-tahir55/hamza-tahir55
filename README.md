@@ -45,7 +45,7 @@
 <div align="left">
   <img src="https://th.bing.com/th/id/OIP.laYIzRY2A-jpnBA2rO2jSQAAAA?rs=1&pid=ImgDetMain" height="40" alt="Colab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://th.bing.com/th/id/R.f99d00d5ad7a8ba83fba26029db97c9a?rik=3xw2UMfrGqGoUA&pid=ImgRaw&r=0" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/184143/java.svg" height="40" alt="Java logo"  />
   <img width="12" />
