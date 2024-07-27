@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.f99d00d5ad7a8ba83fba26029db97c9a?rik=3xw2UMfrGqGoUA&pid=ImgRaw&r=0" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <img src="https://www.clipartmax.com/png/middle/250-2501985_%C2%A0-label.png" height="40" alt="Jupyter logo"  />
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/30382958/jupyter.png" height="40" alt="Jupyter logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.74fMc7yMlp6VN4JaF2AvHQHaHa?w=800&h=800&rs=1&pid=ImgDetMain" height="40" alt="Vs logo"  />
   <img width="12" />
