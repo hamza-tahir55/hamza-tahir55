@@ -50,10 +50,10 @@
   <img width="20" />
   <img src="https://th.bing.com/th/id/OIP.laYIzRY2A-jpnBA2rO2jSQAAAA?rs=1&pid=ImgDetMain" height="50" alt="Colab logo"  />
   <img width="20" />
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/30382958/jupyter.png" height="50" alt="Jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="50" alt="Jupyter logo"  />
-  <img width="20" />
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/30382958/jupyter.png" height="60" alt="Jupyter logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="60" alt="Jupyter logo"  />
+  <img width="30" />
 
 </div>
 
