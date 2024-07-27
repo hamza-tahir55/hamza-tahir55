@@ -52,6 +52,9 @@
   <img width="20" />
   <img src="https://gitlab.com/uploads/-/system/project/avatar/30382958/jupyter.png" height="50" alt="Jupyter logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="50" alt="Jupyter logo"  />
+  <img width="20" />
+
 </div>
 
 
