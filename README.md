@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/184143/java.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="[ https://www.svgrepo.com/show/452045/js.svg](https://th.bing.com/th/id/OIP.1AAaaV4A7tmDzY5l4VyvkgHaFj?rs=1&pid=ImgDetMain)" height="40" alt="JavaScript logo"  />
-  <img width="12" />
   <img src=" https://www.svgrepo.com/show/452045/js.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
