@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 
-<p align="center">A computer science student at Bahria University, deeply passionate about coding and technology.</p>
+<p align="center">A computer science graduate, deeply passionate about coding and technology.</p>
 
 <h2 align="left">👨🏻‍💻  About Me</h2>
-
-<p align="left">- 🔭 I’m a student at Bahria University<br>- 📚 I'm currently in the final year of my Bachelor's in Computer Science.</p>
 
 <h2 align="left">Connect with me</h2>
 
