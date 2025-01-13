@@ -3,6 +3,7 @@
 <p align="center">A computer science graduate, deeply passionate about coding and technology.</p>
 
 <h2 align="left">👨🏻‍💻  About Me</h2>
+<p> I'm a Computer Science graduate with a passion for creating innovative solutions and developing impactful projects. Currently working on enhancing user experiences through technology.</p>
 
 <h2 align="left">Connect with me</h2>
 
