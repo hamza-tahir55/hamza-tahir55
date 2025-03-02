@@ -49,7 +49,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="60" alt="Jupyter logo"  />
   <img width="30" />
-  <img src="https://static.vecteezy.com/system/resources/previews/038/600/548/original/google-cloud-logo-icons-logo-cloud-platform-free-vector.jpg" height="60" alt="GCP logo"  />
+  <img src="https://logocharts.com/wp-content/uploads/2021/12/Google-Cloud-Logo.png" height="60" alt="GCP logo"  />
   <img width="30" />
 
 
