@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="20" />
-  <img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" height="50" alt="SQL logo"  />
+  <img src="https://logodix.com/logo/542135.jpg" height="50" alt="SQL logo"  />
   <img width="20" />
   <img src="https://algorious.io/wp-content/uploads/2024/05/Crew-AI-Logo_cropped-1024x504.jpg" height="50" alt="crewai logo"  />
   <img width="20" />
