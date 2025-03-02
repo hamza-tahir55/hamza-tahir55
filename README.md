@@ -22,9 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="20" />
   <img src="https://logodix.com/logo/542135.jpg" height="50" alt="SQL logo"  />
-  <img width="20" />
-  <img src="https://algorious.io/wp-content/uploads/2024/05/Crew-AI-Logo_cropped-1024x504.jpg" height="50" alt="crewai logo"  />
-  <img width="20" />
+  <img width="25" />
   <img src="https://th.bing.com/th/id/R.2792f9eb01bbadaafa2a2199fb31f4cd?rik=sz60ME5ADL6H1A&pid=ImgRaw&r=0" height="50" alt="R Logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -51,6 +49,10 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="60" alt="Jupyter logo"  />
   <img width="30" />
+  <img src="  https://th.bing.com/th/id/OIP.hRyUAt7heJRfl8QTGe386AHaF8?rs=1&pid=ImgDetMain
+" height="60" alt="GCP logo"  />
+  <img width="30" />
+
 
 </div>
 
