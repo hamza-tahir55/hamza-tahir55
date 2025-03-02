@@ -21,9 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/480px-HTML5_logo_and_wordmark.svg.png" height="50" alt="JavaScript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://algorious.io/wp-content/uploads/2024/05/Crew-AI-Logo_cropped-1024x504.jpg" height="50" alt="crewai logo"  />
   <img width="20" />
   <img src="https://www.svgrepo.com/show/452045/js.svg" height="50" alt="JavaScript logo"  />
   <img width="20" />
