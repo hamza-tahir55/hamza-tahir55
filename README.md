@@ -21,15 +21,15 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="20" />
+  <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" height="50" alt="SQL logo"  />
+  <img width="20" />
   <img src="https://algorious.io/wp-content/uploads/2024/05/Crew-AI-Logo_cropped-1024x504.jpg" height="50" alt="crewai logo"  />
   <img width="20" />
   <img src="https://www.svgrepo.com/show/452045/js.svg" height="50" alt="JavaScript logo"  />
   <img width="20" />
-  <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" height="50" alt="Node Logo"  />
+  <img src="https://th.bing.com/th/id/R.2792f9eb01bbadaafa2a2199fb31f4cd?rik=sz60ME5ADL6H1A&pid=ImgRaw&r=0" height="50" alt="R Logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://www.svgrepo.com/show/184143/java.svg" height="50" alt="Java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="20" />
@@ -41,6 +41,8 @@
 
 
 <div align="left">
+  <img src="https://paulstamatiou.com/gear/cursor-app-icon.png" height="50" alt="Cursor logo"  />
+  <img width="20" />
   <img src="https://th.bing.com/th/id/OIP.74fMc7yMlp6VN4JaF2AvHQHaHa?w=800&h=800&rs=1&pid=ImgDetMain" height="50" alt="Vs logo"  />
   <img width="20" />
   <img src="https://th.bing.com/th/id/R.f99d00d5ad7a8ba83fba26029db97c9a?rik=3xw2UMfrGqGoUA&pid=ImgRaw&r=0" height="50" alt="kaggle logo"  />
