@@ -149,10 +149,4 @@ I design and build AI-driven systems from the ground up &mdash; spanning agent a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-tahir55&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-tahir55&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/hamza-tahir55" alt="GitHub Contribution Calendar" />
-</div>
