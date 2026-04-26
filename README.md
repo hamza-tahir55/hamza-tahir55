@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Hamza</h1>
 
 <p align="center">
-  <b>AI Product Engineer &mdash; Building intelligent systems end-to-end, from architecture to production.</b>
+  <b>Building intelligent systems end-to-end, from architecture to production.</b>
 </p>
 
 <div align="center">
