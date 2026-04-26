@@ -144,7 +144,7 @@ I design and build AI-driven systems from the ground up &mdash; spanning agent a
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-tahir55&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-tahir55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-tahir55&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
@@ -154,9 +154,10 @@ I design and build AI-driven systems from the ground up &mdash; spanning agent a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-tahir55&theme=dracula&hide_border=false&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-tahir55&theme=dracula" alt="Contribution Calendar" />
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/hamza-tahir55" alt="GitHub Contribution Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-tahir55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
